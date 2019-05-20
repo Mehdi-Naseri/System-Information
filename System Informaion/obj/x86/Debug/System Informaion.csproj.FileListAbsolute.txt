@@ -1,0 +1,97 @@
+C:\Users\Mehdi\Documents\VS Temp\System Informaion\System Informaion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mehdi\Documents\VS Temp\System Informaion\System Informaion\obj\x86\Debug\MainWindow.baml
+C:\Users\Mehdi\Documents\VS Temp\System Informaion\System Informaion\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Mehdi\Documents\VS Temp\System Informaion\System Informaion\obj\x86\Debug\App.g.cs
+C:\Users\Mehdi\Documents\VS Temp\System Informaion\System Informaion\obj\x86\Debug\System Informaion_MarkupCompile.cache
+C:\Users\Mehdi\Documents\VS Temp\System Informaion\System Informaion\obj\x86\Debug\System Informaion.g.resources
+C:\Users\Mehdi\Documents\VS Temp\System Informaion\System Informaion\obj\x86\Debug\System_Informaion.Properties.Resources.resources
+C:\Users\Mehdi\Documents\VS Temp\System Informaion\System Informaion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mehdi\Documents\VS Temp\System Informaion\System Informaion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mehdi\Documents\VS Temp\System Informaion\System Informaion\bin\Debug\System Informaion.exe
+C:\Users\Mehdi\Documents\VS Temp\System Informaion\System Informaion\bin\Debug\System Informaion.pdb
+C:\Users\Mehdi\Documents\VS Temp\System Informaion\System Informaion\obj\x86\Debug\System Informaion.exe
+C:\Users\Mehdi\Documents\VS Temp\System Informaion\System Informaion\obj\x86\Debug\System Informaion.pdb
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.0.2\System Informaion\bin\Debug\System Informaion.exe.config
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.0.2\System Informaion\bin\Debug\System Informaion.exe
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.0.2\System Informaion\bin\Debug\System Informaion.pdb
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.0.2\System Informaion\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.0.2\System Informaion\obj\x86\Debug\MainWindow.baml
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.0.2\System Informaion\obj\x86\Debug\MainWindow.g.cs
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.0.2\System Informaion\obj\x86\Debug\App.g.cs
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.0.2\System Informaion\obj\x86\Debug\System Informaion_MarkupCompile.cache
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.0.2\System Informaion\obj\x86\Debug\System Informaion.g.resources
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.0.2\System Informaion\obj\x86\Debug\System_Informaion.Properties.Resources.resources
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.0.2\System Informaion\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.0.2\System Informaion\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.0.2\System Informaion\obj\x86\Debug\System Informaion.exe
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.0.2\System Informaion\obj\x86\Debug\System Informaion.pdb
+C:\Users\Mehdi\Documents\VS Temp\System Informaion_0.1.1.1\System Informaion\bin\Debug\System Informaion.exe.config
+C:\Users\Mehdi\Documents\VS Temp\System Informaion_0.1.1.1\System Informaion\obj\x86\Debug\System Informaion.exe
+C:\Users\Mehdi\Documents\VS Temp\System Informaion_0.1.1.1\System Informaion\obj\x86\Debug\System Informaion.pdb
+C:\Users\Mehdi\Documents\VS Temp\System Informaion_0.1.1.1\System Informaion\bin\Debug\System Informaion.exe
+C:\Users\Mehdi\Documents\VS Temp\System Informaion_0.1.1.1\System Informaion\bin\Debug\System Informaion.pdb
+C:\Users\Mehdi\Documents\VS Temp\System Informaion_0.1.1.1\System Informaion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mehdi\Documents\VS Temp\System Informaion_0.1.1.1\System Informaion\obj\x86\Debug\MainWindow.baml
+C:\Users\Mehdi\Documents\VS Temp\System Informaion_0.1.1.1\System Informaion\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Mehdi\Documents\VS Temp\System Informaion_0.1.1.1\System Informaion\obj\x86\Debug\App.g.cs
+C:\Users\Mehdi\Documents\VS Temp\System Informaion_0.1.1.1\System Informaion\obj\x86\Debug\System Informaion_MarkupCompile.cache
+C:\Users\Mehdi\Documents\VS Temp\System Informaion_0.1.1.1\System Informaion\obj\x86\Debug\System Informaion.g.resources
+C:\Users\Mehdi\Documents\VS Temp\System Informaion_0.1.1.1\System Informaion\obj\x86\Debug\System_Informaion.Properties.Resources.resources
+C:\Users\Mehdi\Documents\VS Temp\System Informaion_0.1.1.1\System Informaion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mehdi\Documents\VS Temp\System Informaion_0.1.1.1\System Informaion\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.2\System Informaion\bin\Debug\System Informaion.exe.config
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.2\System Informaion\obj\x86\Debug\System Informaion.exe
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.2\System Informaion\obj\x86\Debug\System Informaion.pdb
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.2\System Informaion\bin\Debug\System Informaion.exe
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.2\System Informaion\bin\Debug\System Informaion.pdb
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.2\System Informaion\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.2\System Informaion\obj\x86\Debug\MainWindow.baml
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.2\System Informaion\obj\x86\Debug\MainWindow.g.cs
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.2\System Informaion\obj\x86\Debug\App.g.cs
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.2\System Informaion\obj\x86\Debug\System Informaion_MarkupCompile.cache
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.2\System Informaion\obj\x86\Debug\System Informaion.g.resources
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.2\System Informaion\obj\x86\Debug\System_Informaion.Properties.Resources.resources
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.2\System Informaion\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.2\System Informaion\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.3\System Informaion\bin\Debug\System Informaion.exe.config
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.3\System Informaion\obj\x86\Debug\System Informaion.exe
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.3\System Informaion\obj\x86\Debug\System Informaion.pdb
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.3\System Informaion\bin\Debug\System Informaion.exe
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.3\System Informaion\bin\Debug\System Informaion.pdb
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.3\System Informaion\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.3\System Informaion\obj\x86\Debug\MainWindow.baml
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.3\System Informaion\obj\x86\Debug\MainWindow.g.cs
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.3\System Informaion\obj\x86\Debug\App.g.cs
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.3\System Informaion\obj\x86\Debug\System Informaion_MarkupCompile.cache
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.3\System Informaion\obj\x86\Debug\System Informaion.g.resources
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.3\System Informaion\obj\x86\Debug\System_Informaion.Properties.Resources.resources
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.3\System Informaion\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.2.3\System Informaion\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.1\System Informaion\bin\Debug\System Informaion.exe.config
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.1\System Informaion\obj\x86\Debug\System Informaion.exe
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.1\System Informaion\obj\x86\Debug\System Informaion.pdb
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.1\System Informaion\bin\Debug\System Informaion.exe
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.1\System Informaion\bin\Debug\System Informaion.pdb
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.1\System Informaion\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.1\System Informaion\obj\x86\Debug\MainWindow.baml
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.1\System Informaion\obj\x86\Debug\MainWindow.g.cs
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.1\System Informaion\obj\x86\Debug\App.g.cs
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.1\System Informaion\obj\x86\Debug\System Informaion_MarkupCompile.cache
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.1\System Informaion\obj\x86\Debug\System Informaion.g.resources
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.1\System Informaion\obj\x86\Debug\System_Informaion.Properties.Resources.resources
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.1\System Informaion\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.1\System Informaion\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.2\System Informaion\bin\Debug\System Informaion.exe.config
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.2\System Informaion\obj\x86\Debug\System Informaion.exe
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.2\System Informaion\obj\x86\Debug\System Informaion.pdb
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.2\System Informaion\bin\Debug\System Informaion.exe
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.2\System Informaion\bin\Debug\System Informaion.pdb
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.2\System Informaion\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.2\System Informaion\obj\x86\Debug\MainWindow.baml
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.2\System Informaion\obj\x86\Debug\MainWindow.g.cs
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.2\System Informaion\obj\x86\Debug\App.g.cs
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.2\System Informaion\obj\x86\Debug\System Informaion_MarkupCompile.cache
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.2\System Informaion\obj\x86\Debug\System Informaion.g.resources
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.2\System Informaion\obj\x86\Debug\System_Informaion.Properties.Resources.resources
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.2\System Informaion\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Programming\Projects\WPF\System Informations\System Informaion_0.1.3.2\System Informaion\obj\x86\Debug\GenerateResource.write.1.tlog
